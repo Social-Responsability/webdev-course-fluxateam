@@ -49,17 +49,19 @@ Este proyecto está pensado para ser **100% práctico**, **sin instalaciones** y
 
 **Universidad Peruana de Ciencias Aplicadas**  
 Carrera de Ingeniería de Software  
-Curso: Aplicaciones Web – 1ASI0730  
 Período académico: 202520  
-NRC: [Número de NRC]
+Curso: 1ASI0730 Aplicaciones Web  
+NRC: [7420]
 
-**Equipo de desarrollo**:  
-- **Líder**: [Nombres y Apellidos]  
+- **Nombre del equipo**: [FLUXA TEAM]  
+- **Líder del equipo**: Christoper Steven Rivas Castillo  
 - **Integrantes**:  
-  - [Nombre 1]  
-  - [Nombre 2]  
-  - [Nombre 3]  
-  - [Nombre 4]
+  - Sebastian Ernesto Gutarra Velapatiño  
+  - Johan Giovani Huaman Cuba  
+  - Andy Arturo Nuñez Soto  
+  - Rafael Augusto Tasayco Almonacid  
+
+**Fecha de entrega**: [12/11/2025]
 
 ---
 
