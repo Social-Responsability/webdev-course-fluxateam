@@ -20,12 +20,13 @@ Este proyecto está pensado para ser **100% práctico**, **sin instalaciones** y
 
 | Capítulo | Tema | Video | Práctica |
 |---------|------|-------|----------|
-| 1 | Introducción al desarrollo web | [Ver](https://www.youtube.com/watch?v=example-link1) | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Estructura HTML básica | [Ver](https://www.youtube.com/watch?v=example-link2) | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Elementos HTML comunes | [Ver](https://www.youtube.com/watch?v=example-link3) | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Introducción a CSS | [Ver](https://www.youtube.com/watch?v=example-link4) | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Página web completa | [Ver](https://www.youtube.com/watch?v=example-link5) | [Replit](https://replit.com/@your-final-project) |
-| 6 | Recomendaciones y errores comunes | [Ver](https://www.youtube.com/watch?v=example-link6) | [Formulario](https://forms.gle/your-form) |
+| 1 | Introducción al desarrollo web | [Ver](https://youtu.be/9nHPtOvPWQA) | [CodePen](https://codepen.io/) |
+| 2 | Estructura HTML básica | [Ver](https://youtu.be/K6XIgN_bJ1A) | [CodePen](https://codepen.io/) |
+| 3 | Elementos HTML comunes | [Ver](https://youtu.be/9U4Nvz_veew) | [CodePen](https://codepen.io/) |
+| 4 | Introducción a CSS | [Ver](https://youtu.be/rLat_63o2kE) | [CodePen](https://codepen.io/) |
+| 5 | Estilo simple con CSS | [Ver](https://youtu.be/ltPj2lA5_ew) | [CodePen](https://codepen.io/) |
+| 6 | Página web completa | [Ver](https://youtu.be/-bcFaI_fZJE) | [CodePen](https://codepen.io/) |
+| 7 | Recomendaciones y errores comunes | [Ver](https://youtu.be/P6pVBYFSGVQ) | [CodePen](https://codepen.io/) |
 
 ---
 
@@ -41,8 +42,6 @@ Este proyecto está pensado para ser **100% práctico**, **sin instalaciones** y
 ## 📂 Recursos adicionales
 
 - [Repositorio completo del curso](https://github.com/yourusername/webdev-course-teamname)
-- [Cuestionario final](https://forms.gle/your-quiz)
-- [Documentación oficial de HTML y CSS (MDN)](https://developer.mozilla.org/es/docs/Web)
 
 ---
 
