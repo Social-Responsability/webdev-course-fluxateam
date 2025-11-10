@@ -41,7 +41,7 @@ Este proyecto está pensado para ser **100% práctico**, **sin instalaciones** y
 
 ## 📂 Recursos adicionales
 
-- [Repositorio completo del curso](https://github.com/yourusername/webdev-course-teamname)
+- [Repositorio completo del curso](https://github.com/Social-Responsability/webdev-course-fluxateam.git)
 
 ---
 
