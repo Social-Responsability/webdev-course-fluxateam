@@ -6,6 +6,7 @@ Esta lección introduce las hojas de estilo en cascada (CSS) para dar color, dis
 
 ### 🧪 Ejemplo 1 – Colores básicos
 ```html
+/* HTML */
 <h1>Bienvenido a mi página</h1>
 <p>Este es un párrafo normal.</p>
 ```
@@ -42,6 +43,7 @@ p {
 
 ### 🧪 Ejemplo 3 – Clases y IDs
 ```html
+/* HTML */
 <p class="destacado">Este párrafo está destacado.</p>
 <p id="especial">Este párrafo es único.</p>
 ```
@@ -81,6 +83,7 @@ p {
 
 ### 🧪 Ejemplo 5 – Estructura completa con estilos
 ```html
+/* HTML */
 <h1>Mi primera página con CSS</h1>
 
 <p>Este es un párrafo normal.</p>
