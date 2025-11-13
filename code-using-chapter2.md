@@ -1,4 +1,4 @@
-# 📄 Lección 2: Tu primera página con HTML
+# 📄 Capítulo 2: Tu primera página con HTML
 
 Esta lección te enseña a usar las etiquetas más básicas de HTML para crear títulos, párrafos, listas y una estructura inicial de página. Todos los ejemplos están explicados y listos para copiar en CodePen.
 
